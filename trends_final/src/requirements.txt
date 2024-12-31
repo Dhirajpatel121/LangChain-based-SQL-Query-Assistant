@@ -1,9 +1,0 @@
-streamlit
-transformers
-langchain  # Built-in with Python; no installation needed
-pandas
-torch  # Required by transformers and HuggingFace models
-accelerate  # For running HuggingFace models efficiently
-sqlalchemy  # Optional but useful for SQLAlchemy integration
-scikit-learn  # Optional but useful for data manipulation if needed
-langchain-community
